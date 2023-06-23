@@ -1,0 +1,9 @@
+Algoritmo de cálculo de média:
+
+1. Leia lista
+2. Leia tamanho_lista
+3. Var soma = 0
+4. para cada elemento da lista faça:
+5.           soma = elemento + soma 
+6. media = soma/tamanho_lista
+7. escreva media 

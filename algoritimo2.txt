@@ -1,0 +1,23 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
+
+1. leia escala termometrica desejada para iniciar a conversão (TC ou TF)
+2. Se escala desejada for Celsius (tc), 
+3. Então leia o valor numerico de tc (x)
+4. TF=(x*9)/5+32 
+5. escreva TF
+6. Senão:
+7. Se escala selecionada for fahrenheit (tf)
+8. Então leia Valor numerico de tf (y)
+9. TC=[(Y-32)/9]*5
+10. Escreva TC
+
+Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números.
+
+1. leia o tipo de media
+2. leia a lista 
+3. leia tamanho_lista
+4. M = 0
+5. para cada elemento da lista faça: 
+	M = elemento + M
+6. media = M/tamanho_lista
+7. Escreva media
